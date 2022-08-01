@@ -8,3 +8,5 @@
 "[Requirements.txt](https://github.com/Shaheer-khan-github/Easy-OCR/blob/main/Requirements.txt)" This file contains all the dependencies required to execute the code. In case of an issue with any library version or unavailability, you can use "!pip install Requirements.txt".
 
 "[Patches.zip](https://github.com/Shaheer-khan-github/Easy-OCR/blob/main/Patches.zip)" Patches Zip has all the detected bounding boxes after cropping.
+
+"[Detected_Text.png](https://github.com/Shaheer-khan-github/Easy-OCR/blob/main/Detected_Text.png)" Image file having detected text in it.
