@@ -10,3 +10,5 @@
 "[Patches.zip](https://github.com/Shaheer-khan-github/Easy-OCR/blob/main/Patches.zip)" Patches Zip has all the detected bounding boxes after cropping.
 
 "[Detected_Text.png](https://github.com/Shaheer-khan-github/Easy-OCR/blob/main/Detected_Text.png)" Image file having detected text in it.
+
+"[Output.txt](https://github.com/Shaheer-khan-github/Easy-OCR/blob/main/Output.txt)" Text file having detected text in it.
